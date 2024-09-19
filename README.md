@@ -1,5 +1,13 @@
 # Awesome-Millie :sparkles:
 
+Welcome to **Awesome-Millie**!
+
+This is a curated collection of useful links and resources, gathered over the course of various projects I've assigned to my students. You'll find a wide range of topics covered here, from advanced C++ concepts, game engine development, to shader programming and mathematics for game development.
+
+I hope this collection will be as helpful to others as it has been for my students. Whether you're learning, teaching, or just exploring new topics, feel free to dive in and find something useful.
+
+Enjoy, and happy coding! :rocket:
+
 ## 1. Advanced C++ Concepts :computer:
 
 ### 1.1. Templates :scroll:
