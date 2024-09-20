@@ -9,13 +9,13 @@ I hope this collection will be as helpful to others as it has been for my studen
 Enjoy, and happy coding! :rocket:
 
 ## Table of Contents
-- [Advanced C++ Concepts](#advanced-c-concepts)
-- [Game Engine Development](#game-engine-development)
-- [SFML Resources](#sfml-resources)
-- [Graphics Programming](#graphics-programming)
-- [Maths](#maths)
+- :computer: [Advanced C++ Concepts](#advanced-c-concepts)
+- :video_game: [Game Engine Development](#game-engine-development)
+- :framed_picture: [SFML Resources](#sfml-resources)
+- :art: [Graphics Programming](#graphics-programming)
+- :heavy_plus_sign: [Maths](#maths)
 
-## Advanced C++ Concepts :computer:
+## Advanced C++ Concepts
 
 ### Templates :scroll:
 - [CppReference on Templates](https://en.cppreference.com/w/cpp/language/templates) – In-depth reference on templates, one of the most powerful features in C++.
@@ -56,7 +56,7 @@ Enjoy, and happy coding! :rocket:
 
 ---
 
-## Game Engine Development :video_game:
+## Game Engine Development
 
 ### API Graphics Tutorials :desktop_computer:
 - [Vulkan tutorial](https://docs.vulkan.org/tutorial/latest/00_Introduction.html) – A beginner-friendly guide to Vulkan, one of the most popular modern graphics APIs.
@@ -85,7 +85,7 @@ Enjoy, and happy coding! :rocket:
 
 ---
 
-## SFML Resources :framed_picture:
+## SFML Resources
 
 ### SFML Basics :seedling:
 - [SFML website](https://www.sfml-dev.org/index.php) – Official SFML website.
@@ -103,7 +103,7 @@ Enjoy, and happy coding! :rocket:
 
 ---
 
-## Graphics Programming :art:
+## Graphics Programming
 
 ### Unity Shader Development :sparkles:
 - [Unity Shaders Documentation](https://docs.unity3d.com/Manual/Shaders.html) – A complete guide to understanding and writing shaders in Unity.
@@ -122,7 +122,7 @@ Enjoy, and happy coding! :rocket:
 
 ---
 
-## Maths :heavy_plus_sign:
+## Maths
 
 ### Visual Tools :triangular_ruler:
 - [Matrix Multiplication Visual Tool](http://matrixmultiplication.xyz/) – A great tool to visually understand how matrix multiplication works.
