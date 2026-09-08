@@ -81,6 +81,7 @@ Enjoy, and happy coding! :rocket: #ILikeEmojis
 - [Forward Declarations Explanation](https://stackoverflow.com/questions/4757565/what-are-forward-declarations-in-c/4757718#4757718) : A Stack Overflow post explaining what forward declarations are and why they are useful in C++.
 - [CppReference on Forward Declarations](https://en.cppreference.com/w/cpp/language/class) : Reference documentation for class declarations in C++.
   - A *forward declaration* allows you to declare the existence of a class or function before you define it. This is useful in reducing compile-time dependencies in C++.
+
 ### Preprocessor & Windows Headers :gear:
 
 - [Predefined Macros (MSVC)](https://learn.microsoft.com/en-us/cpp/preprocessor/predefined-macros?view=msvc-170) : Standard macros such as `__FILE__` and `__LINE__`, alongside Microsoft-specific macros for compiler and platform detection.
@@ -108,7 +109,7 @@ Enjoy, and happy coding! :rocket: #ILikeEmojis
 
 - [3D Collision Detection (MDN)](https://developer.mozilla.org/en-US/docs/Games/Techniques/3D_collision_detection) : Introduction to bounding volumes, including AABBs and spheres, with JavaScript examples and transferable geometry.
 - [AABB 2D Collision Detection](https://kishimotostudios.com/articles/aabb_collision/) : A compact explanation of axis-aligned rectangle overlap, with diagrams and a JavaScript implementation.
-- [Collision Detection (LearnOpenGL)](https://learnopengl.com/In-Practice/2D-Game/Collisions/Collision-detection) : AABB and circle:AABB collision tests in a Breakout-style game, with C++ examples. The collision mathematics also applies outside OpenGL.
+- [Collision Detection (LearnOpenGL)](https://learnopengl.com/In-Practice/2D-Game/Collisions/Collision-detection) : AABB and circle-to-AABB collision tests in a Breakout-style game, with C++ examples. The collision mathematics also applies outside OpenGL.
 
 ### API Graphics Tutorials :desktop_computer:
 
@@ -129,7 +130,7 @@ Enjoy, and happy coding! :rocket: #ILikeEmojis
 ### Vulkan-Specific Resources :volcano:
 
 - [Vulkan in 30 minutes](https://renderdoc.org/vulkan-in-30-minutes.html) : A crash course on Vulkan, aimed at providing a high-level understanding of the API.
-- [Vulkan Reference Guide](https://www.khronos.org/files/vulkan11-reference-guide.pdf) : A detailed reference manual for Vulkan 1.1, can be downloaded from the [Khronos References Guides Pages}(https://www.khronos.org/developers/reference-cards/)
+- [Vulkan Reference Guide](https://www.khronos.org/files/vulkan11-reference-guide.pdf) : A detailed reference manual for Vulkan 1.1, can be downloaded from the [Khronos Reference Guides](https://www.khronos.org/developers/reference-cards/).
 - [Vulkan Documentation](https://docs.vulkan.org/spec/latest/index.html) : The official documentation of the Vulkan API.
 - [SIGGRAPH Presentation](https://web.engr.oregonstate.edu/~mjb/vulkan/Handouts/ABRIDGED.1pp.pdf) : A presentation on Vulkan from the SIGGRAPH conference, which offers insights into its practical use.
 - [Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) : Khronos C++ bindings for Vulkan, with stronger type checking, convenience wrappers, and RAII handle options.
